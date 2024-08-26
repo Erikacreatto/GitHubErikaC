@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#header {
+    background-color: rgb(185, 185, 255);
+    width: 100%;
+    float: left;
+    color: rgb(49, 49,123);
+    text-align: center;
+    margin-bottom: 10px
+}
+
+#nav {
+    background-color: rgb(49, 49, 123);
+    width: 20%;
+    float: left;
+    color: azure;
+    margin-right: 1%;
+}
+
+#content {
+    background-color:rgb(242, 242, 252);
+    width: 79%;
+    float: left;
+    color: rgb(63, 58, 114);
+    text-align:center;
+    margin-bottom: 10px;
+}
+
+#footer {
+    background-color: rgb(49,49,123);
+    width: 100%;
+    float: left;
+    color:white;
+    text-align:center;
+    margin-bottom: 10px
+
+}
